@@ -1,0 +1,6 @@
+Here we need:
+
+EasyHook32.dll
+EasyHook32.lib
+EasyHook64.dll
+EasyHook64.lib
